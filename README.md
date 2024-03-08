@@ -1,10 +1,7 @@
-# React frontend template
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TA-management-system-LoginPart
 
+The TA management system login and logout part, full stack, front-end/back-end separation
 
-For SMU software engineering, this is a template for frontend development.
-
-Author: [Junhao Shen](junhaos@smu.edu)
 ## Available Scripts
 
 In the project directory, you can run:
